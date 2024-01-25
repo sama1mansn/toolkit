@@ -11,7 +11,7 @@ const config: HardhatUserConfig = {
   solidity: {
     compilers: [
       { version: "0.6.6" /** For uniswap v2 */ },
-      { version: "0.8.7" },
+      { version: "6.0.4" },
     ],
   },
 };
